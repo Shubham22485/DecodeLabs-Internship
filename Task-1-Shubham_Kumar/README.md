@@ -1,5 +1,7 @@
 # Password Strength Checker — DecodeLabs
 
+![python](https://img.shields.io/badge/python-3.6+-blue) ![license](https://img.shields.io/badge/License-MIT-green) ![platform](https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20macos-lightgrey)
+
 A clean, well-documented Python implementation of a **Password Strength Checker** for educational purposes.
 Evaluates password security using entropy calculation, criteria checks, and a leaked-password detection system.
 

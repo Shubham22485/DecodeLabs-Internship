@@ -1,5 +1,3 @@
-![Phishing Awareness Analysis](Thumbnail.png)
-
 # Phishing Analyzer
 
 ![python](https://img.shields.io/badge/python-3.8+-blue) ![license](https://img.shields.io/badge/License-MIT-green) ![platform](https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20macos-lightgrey)

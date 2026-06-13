@@ -1,6 +1,6 @@
 # Caesar Cipher — Basic Encryption & Decryption
 
-![python](https://img.shields.io/badge/python-3.6+-blue) ![license](https://img.shields.io/badge/License-MIT-green) ![platform](https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20macos-lightgrey)
+![python](https://img.shields.io/badge/python-3.6+-blue) ![license](https://img.shields.io/badge/License-MIT-green) ![platform](https://img.shields.io/badge/platform-linux%20%7C%20macos-lightgrey)
 
 A clean, well-documented Python implementation of the classic **Caesar cipher** for educational purposes.
 Supports encrypting and decrypting text with arbitrary integer shift values.

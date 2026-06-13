@@ -1,6 +1,6 @@
 # Phishing Analyzer
 
-![python](https://img.shields.io/badge/python-3.8+-blue) ![license](https://img.shields.io/badge/License-MIT-green) ![platform](https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20macos-lightgrey)
+![python](https://img.shields.io/badge/python-3.8+-blue) ![license](https://img.shields.io/badge/License-MIT-green) ![platform](https://img.shields.io/badge/platform-linux%20%7C%20macos-lightgrey)
 
 A comprehensive, cross-platform **phishing detection and analysis tool** for cybersecurity professionals. Analyzes URLs, email addresses, raw email headers, and message body content for phishing indicators — all without relying on external APIs or cloud services.
 

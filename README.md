@@ -42,8 +42,6 @@ Defensive Logic   →   Applied Cryptography   →   Threat Detection
 (Validate Input)      (Encrypt/Decrypt)           (Identify Attacks)
 ```
 
-> **Core Philosophy:** You cannot protect what you haven't validated. You cannot encrypt what is weak. You cannot detect what you don't understand.
-
 ---
 
 ## 🏢 Internship Details
@@ -267,7 +265,7 @@ python Phishing_Analyzer.py urls.txt
 
 | Category | Skills |
 |----------|--------|
-| **Programming** | Python (pure stdlib, no heavy deps), functional patterns, OOP |
+| **Programming** | Python, functional patterns, OOP |
 | **Security Concepts** | Password entropy, timing attacks, phishing taxonomy, social engineering |
 | **Cryptography** | Caesar cipher, modular arithmetic, symmetric encryption, frequency analysis |
 | **Networking** | TCP WHOIS, SSL/TLS, HTTP redirects, DNS record analysis (MX, SPF, DKIM) |

@@ -1,2 +1,0 @@
-# DecodeLabs-Internship
-Internship

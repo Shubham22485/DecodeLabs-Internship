@@ -322,6 +322,10 @@ python Phishing_Analyzer.py
 
 All projects use **zero external dependencies for core functionality** — they run with Python's standard library out of the box.
 
+## LICENSE
+
+
+
 ---
 
 ## 👤 Author

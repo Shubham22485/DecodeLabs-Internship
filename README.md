@@ -324,7 +324,7 @@ All projects use **zero external dependencies for core functionality** — they 
 
 ## LICENSE
 
-
+Released under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 ---
 
